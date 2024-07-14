@@ -1,0 +1,5 @@
+train: D:/Yamini_pro/datasets/vehicle dataset/train
+val: D:/Yamini_pro/datasets/vehicle dataset/valid
+
+nc: 6
+names: ['car', 'threewheel', 'bus', 'truck', 'motorbike', 'van']
