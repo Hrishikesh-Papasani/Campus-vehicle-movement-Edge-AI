@@ -1,0 +1,6 @@
+train: "C:\\Users\\Sai Kishore\\Desktop\\Numplate\\train"
+val: "C:\\Users\\Sai Kishore\\Desktop\\Numplate\\valid"
+test: "C:\\Users\\Sai Kishore\\Desktop\\Numplate\\test"
+
+nc: 1  # Number of classes
+names: ['numplate']  # List of class names

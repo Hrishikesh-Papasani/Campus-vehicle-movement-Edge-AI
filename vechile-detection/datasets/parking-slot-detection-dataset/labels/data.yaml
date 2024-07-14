@@ -1,0 +1,4 @@
+train: 'E:/projects/labels/images/train'
+val: 'E:/projects/labels/images/val'
+nc: 1
+names: ['parking slot']
